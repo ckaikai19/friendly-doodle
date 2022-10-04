@@ -33,8 +33,7 @@ const Icon = ({ name }) => {
       return <IconFork />;
     case 'GitHub':
       return <IconGitHub />;
-    case 'Instagram':
-      return <IconInstagram />;
+
     case 'Linkedin':
       return <IconLinkedin />;
     case 'Loader':

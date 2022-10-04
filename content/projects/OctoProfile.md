@@ -1,13 +1,15 @@
 ---
 date: '2019-07-15'
-title: 'OctoProfile'
-github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+title: 'Weather App'
+github: 'https://github.com/ckaikai19/icecream'
+external: 'https://ckaikai19.github.io/icecream/'
 tech:
-  - Next.js
-  - Chart.js
-  - GitHub API
+  - HTML
+  - CSS
+  - Javascript
+  - Weather API
+  - Githubv Pages
 showInProjects: true
 ---
 
-A nicer look at your GitHub profile and repo stats. Includes data visualizations of your top languages, starred repositories, and sort through your top repos by number of stars, forks, and size.
+A weather dashboard that will run in the browser and feature dynamically updated HTML and CSS.

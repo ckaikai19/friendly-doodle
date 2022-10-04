@@ -1,12 +1,12 @@
 ---
 date: '2018-12-29'
-title: 'Google Keep Clone'
+title: 'Web Javascript Editor'
 github: 'https://github.com/bchiang7/google-keep-vue-firebase'
-external: 'https://keep-vue.netlify.com/'
+external: 'https://powerful-sierra-62510.herokuapp.com/'
 tech:
-  - Vue
-  - Firebase
+  - React
+  - Node.js
+  - Express
 showInProjects: true
 ---
-
-A simple Google Keep clone built with Vue and Firebase.
+The app will be a single-page application that meets the PWA criteria. Additionally, it will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser.

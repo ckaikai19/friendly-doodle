@@ -1,27 +1,17 @@
 module.exports = {
-  email: 'brittany.chiang@gmail.com',
+  email: 'ckaikai19@gmail.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/ckaikai19',
     },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
-    },
+
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
+      url: 'https://www.linkedin.com/in/christian-kaikai-65793391/',
     },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
-    },
+
   ],
 
   navLinks: [
@@ -29,12 +19,9 @@ module.exports = {
       name: 'About',
       url: '/#about',
     },
+
     {
-      name: 'Experience',
-      url: '/#jobs',
-    },
-    {
-      name: 'Work',
+      name: 'Projects',
       url: '/#projects',
     },
     {

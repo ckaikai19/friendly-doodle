@@ -1,15 +1,16 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
+title: 'Odd Jobs'
 cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+github: 'https://github.com/JoelCronin/OddJobs'
+external: 'https://project3-oddjobs.herokuapp.com/'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - React
+  - GrapghQL
+  - Node.js
+  - Express.js
+  - MongoDB
+  - JWT
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+Modern day business' utilize technology to turn simple ideas into profitable outcomes. The application "Odd Jobs" does this, while also providing users to find workers for their tasks, and provide small job opportunities for those searching.

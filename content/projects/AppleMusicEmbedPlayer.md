@@ -1,14 +1,14 @@
 ---
 date: '2017-12-01'
-title: 'Apple Music Embeddable Web Player Widget'
-github: ''
-external: 'https://tools.applemusic.com/en-us'
+title: 'Social Network API'
+github: 'https://github.com/ckaikai19/potential-invention'
+external: 'https://github.com/ckaikai19/potential-invention'
 tech:
-  - MusicKit.js
-  - JS
-  - SCSS
+  - Node.js
+  - Express.js
+  - MongoDB
 company: 'Apple'
 showInProjects: true
 ---
 
-Embeddable web player widget for Apple Music that lets users log in and listen to full song playback in the browser leveraging [MusicKit.js](https://developer.apple.com/documentation/musickitjs). Read more about this project on [9to5Mac](https://9to5mac.com/2018/06/03/apple-music-embeddable-web-player-listen-browser/).
+A back-end social network api connected to a mongoDB backend. this api has routes that allows user's to preform all CRUD opperations on each social post
